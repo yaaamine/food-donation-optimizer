@@ -1,0 +1,13 @@
+region,population,food_insecurity_rate_pct,distance_to_hub_km,stock_on_hand_tonnes,days_until_expiry
+Casablanca-Settat,7689000,3.5,80,250,18
+Rabat-Sale-Kenitra,5133000,5.7,10,200,20
+Marrakech-Safi,4892000,6.5,240,60,8
+Fes-Meknes,4468000,9.0,140,90,15
+Tanger-Tetouan-Al Hoceima,4030000,4.9,60,120,10
+Souss-Massa,3020000,5.0,270,70,12
+Oriental,2295000,8.4,320,45,7
+Beni Mellal-Khenifra,2511000,9.8,190,30,5
+Draa-Tafilalet,1651000,7.0,410,20,6
+Guelmim-Oued Noun,448000,6.2,520,15,4
+Laayoune-Sakia El Hamra,451000,2.4,610,25,9
+Dakhla-Oued Ed-Dahab,220000,2.5,730,10,14
